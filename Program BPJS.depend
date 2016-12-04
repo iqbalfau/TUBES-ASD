@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1480837508 source:e:\coding\c++\sd\program bpjs\list_pengguna.cpp
+	"listPengguna.h"
+
+1480828640 e:\coding\c++\sd\program bpjs\listpengguna.h
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<iostream>
+
+1480823288 source:e:\coding\c++\sd\program bpjs\main.cpp
+	<iostream>
+	"listPengguna.h"
+	"listPengobatan.h"
+
+1480837508 source:e:\coding\c++\sd\program bpjs\submain.cpp
+	"listPengguna.h"
+	"listPengobatan.h"
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1480838128 source:e:\coding\c++\sd\program bpjs\listevent.cpp
+	"listPengobatan.h"
+	"ListPengguna.h"
+
+1480832113 e:\coding\c++\sd\program bpjs\listpengobatan.h
+	"listPengguna.h"
+	<iostream>
+
